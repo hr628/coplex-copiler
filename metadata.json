@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Mini-C Compiler Lab IDE",
+  "description": "A full-featured IDE and educational playground for a C++ based 'Mini Language' compiler, featuring a Lexer, Parser, Semantic Analyzer, and Stack-Based VM.",
+  "requestFramePermissions": []
+}
